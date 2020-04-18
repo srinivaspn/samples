@@ -1,0 +1,6 @@
+entities/AutoValue_Person.class
+entities/AutoValue_Person$1.class
+entities/Person.class
+service/PersonService.class
+entities/AutoValue_Person$Builder.class
+entities/Person$Builder.class
