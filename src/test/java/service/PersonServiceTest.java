@@ -20,7 +20,7 @@ public class PersonServiceTest {
 
         assertThat(personService.groupByAge(ImmutableSet.of(person1, person2, person3)))
                 .containsExactlyEntriesIn(ImmutableSetMultimap.of(
-                        35, 
+                        35,
                        person1,
                         35,
                         person2,
